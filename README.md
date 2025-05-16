@@ -27,15 +27,13 @@ Jarvis is a voice-controlled personal assistant built with Python. It can perfor
 5) webbrowser: For opening web pages.
 
 📦 Installation
-1) Clone the repository:
-git clone https://github.com/Krishna-web312/jarvis.git
-2) Install the required dependencies:
+1) Install the required dependencies:
 pip install -r requirements.txt
 Create a requirements.txt file with the following content:
 SpeechRecognition
 pyttsx3
 psutil
-3) Ensure you have a working microphone and speakers connected to your system.
+2) Ensure you have a working microphone and speakers connected to your system.
 
 🎤 Usage
 1) Run the assistant:
